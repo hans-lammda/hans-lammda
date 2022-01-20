@@ -9,7 +9,6 @@ Test of embedded PlantUML, https://gist.github.com/noamtamim/f11982b28602bd7e604
 @startuml firstDiagram
 
 Alice -> Bob: Hello
-Bob -> Alice: Hi!
 	
 @enduml
 -->
