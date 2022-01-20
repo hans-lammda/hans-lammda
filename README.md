@@ -6,10 +6,9 @@
 
 Test of embedded PlantUML, https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f
 <!--
-@startuml firstDiagram
+@startuml 
 
 Alice -> Bob: Hello
-PlantUML not renderred 
 	
 @enduml
 -->
